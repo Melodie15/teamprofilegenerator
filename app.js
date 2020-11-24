@@ -200,7 +200,7 @@ function generatePage() {
 </html>
    `;
 
-   fs.writeFile("./output/roster.html", fullHTML, function(err) {
+   fs.writeFile("./test/output/roster.html", fullHTML, function(err) {
       if (err) {
          return console.log(err);
       }
