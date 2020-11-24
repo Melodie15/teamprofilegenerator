@@ -33,7 +33,7 @@ A software engineering team generator command line application. The application 
 
 ## How to Use
 
-Open the terminal, type in npm install, then node app.js. The Inquirer will ask questions about the team manager first, then your engineers and interns. A HTML file is produced with your team info. file:///C:/Users/fmsis/Desktop/Bootcamp/Homework/teamprofilegenerator/test/output/roster.html
+Open the terminal, type in npm install, then node app.js. The Inquirer will ask questions about the team manager first, then your engineers and interns. A HTML file is produced with your team info. file:///C:/Users/fmsis/Desktop/Bootcamp/Homework/teamprofilegenerator/test/output/roster.html    
 
 ### License
 
