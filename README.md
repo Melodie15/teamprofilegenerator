@@ -41,3 +41,9 @@ Distributed under the MIT License. See LICENSE for more information.
 
 [Back To The Top](#team-profile-generator)
 
+## Author Info
+
+Fatim Robbins
+fmsis@hotmail.com
+Github link - https://melodie15.github.io/teamprofilegenerator/ 
+
